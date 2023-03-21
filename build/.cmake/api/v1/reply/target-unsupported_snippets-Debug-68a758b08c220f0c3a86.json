@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"libs/Eigen/unsupported/doc/snippets/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "unsupported_snippets::@ed6429623a2220606a0e",
+	"name" : "unsupported_snippets",
+	"paths" : 
+	{
+		"build" : "libs/Eigen/unsupported/doc/snippets",
+		"source" : "libs/Eigen/unsupported/doc/snippets"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

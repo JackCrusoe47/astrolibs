@@ -1,0 +1,169 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"libs/Eigen/unsupported/doc/examples/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "example_EulerAngles::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "example_MatrixLogarithm::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "example_MatrixExponential::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "example_MatrixFunction::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "example_MatrixSinh::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "example_BVH_Example::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "example_FFT::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "example_MatrixSine::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "example_MatrixPower::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "example_MatrixPower_optimal::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "example_MatrixSquareRoot::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "example_PolynomialSolver1::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "example_PolynomialUtils1::@1d12c999d64fa8e09b7a"
+		}
+	],
+	"id" : "unsupported_examples::@1d12c999d64fa8e09b7a",
+	"name" : "unsupported_examples",
+	"paths" : 
+	{
+		"build" : "libs/Eigen/unsupported/doc/examples",
+		"source" : "libs/Eigen/unsupported/doc/examples"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,16 +1,14 @@
-# This is the top-level CMakeLists.txt file
+cmake_minimum_required(VERSION 3.10)
 
-cmake_minimum_required(VERSION 3.12 FATAL_ERROR)
+project(AstroLibs)
 
-project(astrolibs)
+set(CMAKE_CXX_STANDARD 14)
 
-set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_EXTENSIONS OFF)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
+find_package (Eigen3 3.3 REQUIRED NO_MODULE)
 
-# executables
-add_executable(main main.cpp)
+include_directories(src)
 
-# tests
-enable_testing()
+add_subdirectory(src)
 add_subdirectory(tests)
+add_subdirectory(libs/googletest)
+add_subdirectory(libs/Eigen)

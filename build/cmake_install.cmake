@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/astrolibs")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/AstroLibs")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
+  include("D:/Work Data/astrolibs/build/src/cmake_install.cmake")
   include("D:/Work Data/astrolibs/build/tests/cmake_install.cmake")
+  include("D:/Work Data/astrolibs/build/libs/googletest/cmake_install.cmake")
+  include("D:/Work Data/astrolibs/build/libs/Eigen/cmake_install.cmake")
 
 endif()
 

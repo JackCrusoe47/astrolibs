@@ -1,9 +1,18 @@
 # ninja log v5
-5	605	7010769013199108	CMakeFiles/main.dir/main.cpp.obj	910024f794101e68
-612	864	7010769015742803	main.exe	99d840a60d5912d4
-32	3042	7010781872017887	tests/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	48058455fd7f33f7
-23	15590	7010781997202345	tests/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f1c1a4e39a36d5a3
-17	3197	7010781873667161	tests/CMakeFiles/exmpale_test.dir/example_test.cpp.obj	2766f03f602183c4
-15599	19925	7010782040883948	lib/libgtest.a	6d74e761fe1837e2
-19925	20157	7010782043249661	lib/libgtest_main.a	e55f1bc1e8cb9998
-20157	26050	7010782102129947	tests/exmpale_test.exe	250260b8df58cab3
+458	8612	7010876256637387	libs/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	6808bb3bd2ee7aff
+254	1728	7010878496258265	lib/libgmock.a	df73ea2d6ce503ff
+59	482	7010876174566752	src/CMakeFiles/AstroLibs_lib.dir/Formula.cpp.obj	a5b2768cafa9458e
+104	17355	7010876752887809	libs/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	7cda7b0ca119b0cc
+66	278	7010881933362550	src/AstroLibs_run.exe	99a3990acfc3574c
+71	2251	7010876191820620	src/CMakeFiles/AstroLibs_lib.dir/main.cpp.obj	c1113367e060eb47
+482	5227	7010876222827747	libs/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	94afe7f491555c8e
+112	3352	7010876613101439	libs/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	904123412655dce2
+54	3396	7010879163105969	tests/CMakeFiles/AstroLibs_tst.dir/Formula-test.cpp.obj	f0bec6112d76ffdb
+57	510	7010877880394295	src/CMakeFiles/AstroLibs_run.dir/Formula.cpp.obj	b065ccb5e91c733e
+262	1093	7010878489925188	lib/libgtest_main.a	d44eff0b2f92915a
+84	5881	7010877934449806	lib/libgtest.a	63898a14073309c2
+1728	2044	7010878499589362	lib/libgmock_main.a	5c4e7942e50e97fd
+77	2637	7010877902026482	tests/CMakeFiles/AstroLibs_tst.dir/main.cpp.obj	36e99a7a0db02e7e
+3396	9005	7010879219116265	tests/AstroLibs_tst.exe	6c684fa22c407a9e
+63	1275	7010877887874318	src/CMakeFiles/AstroLibs_run.dir/main.cpp.obj	e6816deadd436839
+71	1589	7010876592506466	src/libAstroLibs_lib.a	f54e020346ef1c2b

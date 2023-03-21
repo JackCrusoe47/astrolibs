@@ -1,0 +1,84 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"libs/Eigen/doc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 94,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 106,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "unsupported_examples::@1d12c999d64fa8e09b7a"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "unsupported_snippets::@ed6429623a2220606a0e"
+		}
+	],
+	"id" : "doc-unsupported-prerequisites::@a76ece7fd933161f25c7",
+	"name" : "doc-unsupported-prerequisites",
+	"paths" : 
+	{
+		"build" : "libs/Eigen/doc",
+		"source" : "libs/Eigen/doc"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/libs/Eigen/doc/CMakeFiles/doc-unsupported-prerequisites",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/libs/Eigen/doc/CMakeFiles/doc-unsupported-prerequisites.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
