@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/Work Data/astrolibs/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=c++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"D:\\Work Data\\astrolibs\\main.cpp\"",
+  "file": "D:\\Work Data\\astrolibs\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Work Data/astrolibs/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest/include\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest\" -g -std=c++17 -o tests\\CMakeFiles\\exmpale_test.dir\\example_test.cpp.obj -c \"D:\\Work Data\\astrolibs\\tests\\example_test.cpp\"",
+  "file": "D:\\Work Data\\astrolibs\\tests\\example_test.cpp",
+  "output": "tests\\CMakeFiles\\exmpale_test.dir\\example_test.cpp.obj"
+},
+{
+  "directory": "D:/Work Data/astrolibs/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/Work Data/astrolibs/build/tests/googletest-src/googlemock/include\" -I\"D:/Work Data/astrolibs/build/tests/googletest-src/googlemock\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest/include\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o tests\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googlemock\\src\\gmock-all.cc\"",
+  "file": "D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "tests\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "D:/Work Data/astrolibs/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googlemock/include\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googlemock\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest/include\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o tests\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googlemock\\src\\gmock_main.cc\"",
+  "file": "D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "tests\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "D:/Work Data/astrolibs/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/Work Data/astrolibs/build/tests/googletest-src/googletest/include\" -I\"D:/Work Data/astrolibs/build/tests/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o tests\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googletest\\src\\gtest-all.cc\"",
+  "file": "D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "tests\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "D:/Work Data/astrolibs/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest/include\" -isystem \"D:/Work Data/astrolibs/build/tests/googletest-src/googletest\" -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o tests\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googletest\\src\\gtest_main.cc\"",
+  "file": "D:\\Work Data\\astrolibs\\build\\tests\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "tests\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

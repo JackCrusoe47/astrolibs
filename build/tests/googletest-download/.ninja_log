@@ -1,0 +1,37 @@
+# ninja log v5
+8	12407	7010778345781971	googletest-prefix/src/googletest-stamp/googletest-download	dd0ffa9911b168be
+3617	3721	7010787221405288	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build	b4f27337b09c80e1
+3926	4069	7010787224885220	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-done	88da735081671c04
+3823	3926	7010787223448823	googletest-prefix/src/googletest-stamp/googletest-test	3a65aec56877bd07
+15	3343	0	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update	ddbe9a93c0911bab
+3513	3617	7010787220364661	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure	13c8ac6931a63d59
+3823	3926	7010787223448823	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test	3a65aec56877bd07
+15	3343	0	googletest-prefix/src/googletest-stamp/googletest-update	ddbe9a93c0911bab
+3721	3823	7010787222408741	googletest-prefix/src/googletest-stamp/googletest-install	7f0f7d44e3c85e46
+8	12407	7010778345781971	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download	dd0ffa9911b168be
+3926	4069	7010787224885220	CMakeFiles/googletest-complete	88da735081671c04
+3926	4069	7010787224885220	D:/Work Data/astrolibs/build/tests/googletest-download/CMakeFiles/googletest-complete	88da735081671c04
+3926	4069	7010787224885220	googletest-prefix/src/googletest-stamp/googletest-done	88da735081671c04
+3	106	7010776889636029	googletest-prefix/src/googletest-stamp/googletest-mkdir	61ec6f3e83b488ea
+3617	3721	7010787221405288	googletest-prefix/src/googletest-stamp/googletest-build	b4f27337b09c80e1
+3721	3823	7010787222408741	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install	7f0f7d44e3c85e46
+3513	3617	7010787220364661	googletest-prefix/src/googletest-stamp/googletest-configure	13c8ac6931a63d59
+3344	3513	7010787219312277	googletest-prefix/src/googletest-stamp/googletest-patch	54d0aa7a5a4943a7
+3	106	7010776889636029	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir	61ec6f3e83b488ea
+3344	3513	7010787219312277	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch	54d0aa7a5a4943a7
+14	3907	0	googletest-prefix/src/googletest-stamp/googletest-update	ddbe9a93c0911bab
+14	3907	0	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update	ddbe9a93c0911bab
+3908	4017	7010787471142812	googletest-prefix/src/googletest-stamp/googletest-patch	54d0aa7a5a4943a7
+3908	4017	7010787471142812	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch	54d0aa7a5a4943a7
+4017	4132	7010787472291843	googletest-prefix/src/googletest-stamp/googletest-configure	13c8ac6931a63d59
+4017	4132	7010787472291843	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure	13c8ac6931a63d59
+4132	4263	7010787473596280	googletest-prefix/src/googletest-stamp/googletest-build	b4f27337b09c80e1
+4132	4263	7010787473596280	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build	b4f27337b09c80e1
+4263	4400	7010787474964940	googletest-prefix/src/googletest-stamp/googletest-install	7f0f7d44e3c85e46
+4263	4400	7010787474964940	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install	7f0f7d44e3c85e46
+4400	4520	7010787476184322	googletest-prefix/src/googletest-stamp/googletest-test	3a65aec56877bd07
+4400	4520	7010787476184322	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test	3a65aec56877bd07
+4520	4707	7010787478039645	CMakeFiles/googletest-complete	88da735081671c04
+4520	4707	7010787478039645	googletest-prefix/src/googletest-stamp/googletest-done	88da735081671c04
+4520	4707	7010787478039645	D:/Work Data/astrolibs/build/tests/googletest-download/CMakeFiles/googletest-complete	88da735081671c04
+4520	4707	7010787478039645	D:/Work Data/astrolibs/build/tests/googletest-download/googletest-prefix/src/googletest-stamp/googletest-done	88da735081671c04
